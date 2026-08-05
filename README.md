@@ -1,10 +1,24 @@
-# Certificates 🏆
-Welcome to my personal collection of certificates! This repository showcases my continuous learning journey and professional development achievements.
+## 📋 About
+This repository contains certificates I've earned through various online courses, training programs, and professional development opportunities. Each certificate represents a milestone in my commitment to expanding my knowledge and skills in **networking, security, and defensive operations.**
 
-# About 📋
-This repository contains all the certificates I've earned through various online courses, workshops, training programs, and professional certifications. Each certificate represents a milestone in my commitment to expanding my knowledge and skills.
+---
 
-# Certificate List 📜
-- "Legacy Responsive Web Design V8" from FreeCodeCamp on 25/02/2026.
+## 📜 Certification List
 
-All the links of certificates will find it in Year Folder (**By year of acquisition**).
+### 🛡️ Relevant Certifications (Cybersecurity & Networking)
+
+| Certification | Issuer | Date | Skills Covered |
+| :--- | :--- | :--- | :--- |
+| **Networking Basics** | Cisco Networking Academy | August 2026 | TCP/IP, IPv4/IPv6, Routing, Network Troubleshooting, Wireless Router Configuration |
+
+
+---
+
+### 📚 Other Certifications *(Shows Breadth)*
+
+| Certification | Issuer | Date | Skills Covered |
+| :--- | :--- | :--- | :--- |
+| **Legacy Responsive Web Design v8** | FreeCodeCamp | February 2026 | HTML, CSS, Responsive Web Design, Flexbox, Grid |
+| **Intro to Deep Learning & Machine Learning** | Kaggle | June 2026 | Machine Learning Basics, Neural Networks, Data Science |
+
+---
