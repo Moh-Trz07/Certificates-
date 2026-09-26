@@ -10,6 +10,7 @@ This repository contains certificates I've earned through various online courses
 | Certification | Issuer | Date | Skills Covered |
 | :--- | :--- | :--- | :--- |
 | **Networking Basics** | Cisco Networking Academy | August 2026 | TCP/IP, IPv4/IPv6, Routing, Network Troubleshooting, Wireless Router Configuration |
+| **Intro to Cybersecurity** | Cisco Networking Academy | September 2026 | Cybersecurity Fundamentals, CIA Triad, Common Threats & Vulnerabilities, Organizational Protection |
 
 
 ---
