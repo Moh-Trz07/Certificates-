@@ -15,6 +15,14 @@ This repository contains certificates I've earned through various online courses
 
 ---
 
+### 🧪 Completed Labs & Rooms
+
+| Room / Lab | Platform | Date | Skills Covered |
+| :--- | :--- | :--- | :--- |
+| **Linux Fundamentals Part 1** | TryHackMe | August 2026 | Linux Command Line, File System Navigation, Basic Commands (ls, cd, pwd, mkdir, rm) |
+
+---
+
 ### 📚 Other Certifications *(Shows Breadth)*
 
 | Certification | Issuer | Date | Skills Covered |
